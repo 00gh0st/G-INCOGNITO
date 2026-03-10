@@ -1,2 +1,3 @@
 # G-INCOGNITO
-By: gh0st
+
+Version: 1.0
